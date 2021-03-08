@@ -1,0 +1,158 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+/* 1000px */
+@media (max-width: 1000px) {
+  #title{
+    text-align: center;
+  }
+}
+#title{
+  background-image: linear-gradient(THISTLE,LAVENDER);
+  padding-right: 7rem;
+  position: relative;
+}
+/* 1000px */
+@media (maxwidth: 1000px) {
+.food{
+  height:8rem;
+  width: 8rem;
+  margin-left: 5.5rem;
+}
+}
+.food{
+  height:16rem;
+  width: 16rem;
+  margin-left: 18rem;
+}
+.moto{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 3rem;
+  line-height: 2;
+  color:CADETBLUE;
+}
+.tcont{
+  padding: 3% 15%;
+}
+.D-btn{
+  margin: 1rem 1rem 1rem 0  ;
+}
+.navbar-brand{
+  font-size: 2rem;
+  background-image: -webkit-linear-gradient(ROSYBROWN,MAROON);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+.nav-link{
+  color: #ffff;
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: lighter;
+  margin: 2rem;
+}
+.navbar{
+  padding-bottom: 7rem;
+}
+.nm{
+  margin-left:25rem;
+}
+#features{
+  padding: 18rem;
+  margin: auto;
+  background-image: linear-gradient(LightBlue,GhostWhite);
+  position: relative;
+}
+.menu{
+  margin: 3rem;
+  height:12rem;
+  width:16rem;
+  padding: 0;
+}
+.feature{
+  font-weight: bold;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.dis{
+  font-size: 1rem;
+  padding: 1rem;
+  color:#8f8f8f;
+}
+.col-lg-4{
+  text-align: center;
+  padding:1rem;
+}
+.fi{
+  margin-bottom: 1rem;
+}
+.fi:hover{
+  color: Silver;
+}
+#review{
+  text-align: center;
+  background-image:linear-gradient(chocolate,brown);
+  padding: 6.25rem;
+  position: relative;
+}
+.avatar{
+  height:6.25rem;
+  width:6.25rem;
+  padding:1rem;
+}
+.r1{
+  padding :1rem;
+}
+.name{
+  padding:1rem;
+  color:Wheat;
+  font-family: 'Architects Daughter', cursive;
+}
+.thoughts{
+  padding-left:12rem;
+  padding-right: 12rem;
+  font-family: 'Inter', sans-serif;
+  color:#ffff;
+  }
+.rh{
+  color:NavajoWhite;
+  margin-bottom: 5rem;
+}
+#menu{
+  padding: 6.25rem;
+  text-align: center;
+  background-image: linear-gradient(DarkSlateGray,Sienna);
+  position: relative;
+}
+.card{
+  width:20rem;
+  border-radius: 1rem;
+  background-image:linear-gradient(Azure,AntiqueWhite);
+}
+.card-deck{
+  padding:6.25rem;
+}
+.ch{
+  background-color:MintCream;
+  padding-top:0.75rem;
+  padding-bottom:0.75rem;
+  border-radius: 0.75rem;
+  color:LightSeaGreen;
+  border: 2px solid;
+  border-color:LightBlue;
+}
+.ct{
+  font-family: 'EB Garamond', serif;
+  color: Teal;
+}
+.cd{
+  font-size:1rem;
+  color: DarkCyan;
+  padding:1rem;
+  border-radius: 0.5rem;
+  font-family: 'Rokkitt', serif;
+  font-weight: bold;
+}
+.ob:hover{
+  background-image: linear-gradient(SteelBlue,SlateBlue);
+}
+.mh{
+  color:HoneyDew;
+}
